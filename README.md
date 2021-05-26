@@ -10,3 +10,10 @@
 - Capture positions where snake’s head and tail exists.
 - Capture positions where ladder starts and ends.
 - Use Java Random class to use generate dice value. Capture the dice value.
+
+# Run the given code as java program.
+
+# How Snake and Ladder game look like:
+![](https://github.com/AadityaUoHyd/SnakeAndLadder-Ludo-Game/blob/main/IMG_20210526_115617.jpg)
+
+
